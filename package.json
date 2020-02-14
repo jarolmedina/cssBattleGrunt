@@ -1,0 +1,16 @@
+{
+  "name": "appmoviles",
+  "version": "1.0.0",
+  "description": "Aplicacion que permite demostrar la forma de crear tareas con grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarol Medina Marin",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
